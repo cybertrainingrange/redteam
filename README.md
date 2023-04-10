@@ -37,20 +37,20 @@ Ultimately, the goal of our cyber range is to provide a safe and realistic envir
 
 
 ## Team Members
-- Alena [@alena](https://www.github.com/octokatherine)
+- Alena [@alena](https://www.github.com/)
 - Ameha [@ameha01](https://github.com/orgs/cybertrainingrange/people/ameha01)
 - Anna [@annitamaria](https://github.com/orgs/cybertrainingrange/people/ANNITAMARIA)
 - Diego [@dagiraldo3](https://github.com/orgs/cybertrainingrange/people/dagiraldo3)
 - Ella [@ellaowens](https://github.com/orgs/cybertrainingrange/people/ellaowens)
-- Emilie [@emtechnode](https://github.com/orgs/cybertrainingrange/people/emtechnode)
+- Emilie [@emtechnode](https://github.com/emtechnode)
 - Francisco [@killbay](https://github.com/orgs/cybertrainingrange/people/killbay)
 - Gyan [@gyan](https://www.github.com/octokatherine)
 - Jane [@jjperipheral](https://github.com/orgs/cybertrainingrange/people/jjperipheral)
-- Jared [@jared](https://www.github.com/octokatherine)
-- Maira [@maira](https://www.github.com/octokatherine)
+- Jared [@jared](https://www.github.com/)
+- Maira [@maira](https://www.github.com/)
 - Nancy [@nancyuddin](https://github.com/orgs/cybertrainingrange/people/nancyuddin)
 - Neiman [@Neiman](https://github.com/orgs/cybertrainingrange/people/bull-in-the-heather)
-- Tyesha [@tyesha](https://www.github.com/octokatherine)
+- Tyesha [@tyesha](https://www.github.com/)
 - Victor [@vick627](https://github.com/orgs/cybertrainingrange/people/vick627)
 - Volha [@voliatalatynik](https://github.com/orgs/cybertrainingrange/people/voliatalatynik)
 
