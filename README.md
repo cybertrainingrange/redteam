@@ -48,7 +48,7 @@ Ultimately, the goal of our cyber range is to provide a safe and realistic envir
 - Jane [@jjperipheral](https://github.com/orgs/cybertrainingrange/people/jjperipheral)
 - Jared [@jared](https://www.github.com/)
 - Maira [@maira](https://www.github.com/)
-- Nancy [@nancyuddin](https://github.com/orgs/cybertrainingrange/people/nancyuddin)
+- Nancy [@nancyuddin](https://github.com/nancyuddin)
 - Neiman [@Neiman](https://github.com/orgs/cybertrainingrange/people/bull-in-the-heather)
 - Tyesha [@tyesha](https://www.github.com/)
 - Victor [@vick627](https://github.com/orgs/cybertrainingrange/people/vick627)
