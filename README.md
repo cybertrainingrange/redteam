@@ -41,7 +41,7 @@ Ultimately, the goal of our cyber range is to provide a safe and realistic envir
 - Ameha [@ameha01](https://github.com/orgs/cybertrainingrange/people/ameha01)
 - Anna [@annitamaria](https://github.com/orgs/cybertrainingrange/people/ANNITAMARIA)
 - Diego [@dagiraldo3](https://github.com/orgs/cybertrainingrange/people/dagiraldo3)
-- Ella [@ellaowens](https://github.com/orgs/cybertrainingrange/people/ellaowens)
+- Ella [@ellaowens](https://github.com/ellaowens)
 - Emilie [@emtechnode](https://github.com/emtechnode)
 - Francisco [@killbay](https://github.com/orgs/cybertrainingrange/people/killbay)
 - Gyan [@gyan](https://www.github.com/octokatherine)
