@@ -1,7 +1,7 @@
 
 # Vulnerable S3 Bucket - Red Teaming
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1uSG8jeENF6hlHk_NIquqs4UNQrFdx7_M)
+ ![App Screenshot](https://drive.google.com/uc?export=view&id=1uSG8jeENF6hlHk_NIquqs4UNQrFdx7_M)
 
 
 Amazon S3 (Simple Storage Service) is a popular cloud-based storage service used by many individuals and organizations to store and retrieve data. However, if an S3 bucket is misconfigured, it can become vulnerable to exploitation, potentially leading to data breaches and other security incidents.
