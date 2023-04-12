@@ -69,6 +69,7 @@ Type the S3 bucket URL: http://flaws.cloud.s3.amazonaws.com/secret-dd02c7c.html
 
 
 I also created a “testing.txt” and saved it that means, I was able to hack into it.
+  
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1Dx4DtG_YIqJSBwcbkfQixDkTleT8QUh7)
 
