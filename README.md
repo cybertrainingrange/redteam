@@ -2,8 +2,6 @@
 # Cyber Range Team Capstone Project Summary - Red Team
 
 
-
-
 ## 
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1mYjdREqJPkrotr126PjU9ByedOIkYiAS)
@@ -27,14 +25,9 @@ Penetration testing is a method of evaluating the security of a computer system 
 
 Ultimately, the goal of our cyber range is to provide a safe and realistic environment for training and testing cybersecurity skills. While Red teaming is a crucial aspect of this training as it allows participants to simulate real-world attacks and identify vulnerabilities in a system, it is essential to be mindful of policies when red teaming to ensure that the simulated attacks do not violate any legal or ethical boundaries. Staying in compliance with policies and regulations helps to avoid any potential legal or reputational consequences that could arise from unauthorized actions. By utilizing red team tactics, organizations can better understand their security strengths and weaknesses and improve their overall cybersecurity posture.
 
-
-
-
-
 ## Technical Documentation
 
-[Documentation](https://linktodocumentation)
-
+[Documentation](https://docs.google.com/document/d/1fCUtz3f2Hs_mVT0ssHRiIhxTLyKvkzgHi3-k49irTHY/edit?usp=share_link)
 
 ## Team Members
 - Alena [@alena](https://www.github.com/)
