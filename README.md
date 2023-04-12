@@ -40,7 +40,7 @@ Ultimately, the goal of our cyber range is to provide a safe and realistic envir
 - Emilie [@emtechnode](https://github.com/emtechnode)
 - Francisco [@killbay](https://github.com/orgs/cybertrainingrange/people/killbay)
 - Gyan [@gyan](https://www.github.com/octokatherine)
-- Jane [@jjperipheral](https://github.com/orgs/cybertrainingrange/people/jjperipheral)
+- Jane [@jjperipheral](https://github.com/jjperipheral)
 - Jared [@jared](https://www.github.com/)
 - Maira [@maira](https://www.github.com/)
 - Nancy [@nancyuddin](https://github.com/nancyuddin)
