@@ -20,21 +20,26 @@ To demonstrate Vulnerable S3 Bucket:
 For domain and bucket discovery of a site: type nslookup <sitename>
 
 nslookup flaws.cloud
+  
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1BVRVQ6qhRjdTM5wtDdQuYGtsuZkX5Yn7)
 
 
 host flaws.cloud
+  
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1Hofov-ZiaDDwiSNh9srE1rpQNVhv2w2j)
 
 
 To do a reverse lookup: type host <ipaddress>
 
 This query shows that this website is in S3 and it’s in the us-west-2 region.
+  
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1BK7Y5ZQa0yWDApfODoRZB1TyMqQ3ubkD)
 
 
-There is a common naming format to find out how S3 websites are. To check if this is a website in S3, type the domain + s3.amazonaws.com on a browser: http://flaws.cloud.s3.amazonaws.com
+There is a common naming format to find out how S3 websites are. To check if this is a website in S3, type the domain + s3.amazonaws.com on a browser: 
+http://flaws.cloud.s3.amazonaws.com
 
+  
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1_EUuiDCxxDw-PLgcsMnUgZ1Bnr8jn7nO)
 
 
