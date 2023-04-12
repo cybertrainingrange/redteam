@@ -6,8 +6,6 @@
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1mYjdREqJPkrotr126PjU9ByedOIkYiAS)
 
-
-## Summary
 There is an average of 2,200 cyberattacks per day with the United States remaining the most highly targeted country with 46% of global cyber incidences, according to research updated in January 2023 by CompTIA (CompTIA, 2023). Cybersecurity has developed to be one of the most in-demand industries in response to the growing threats. Organizations need proper security assessments to ensure that they are operating in compliance and are effective at defending the organization from unknown or “zero-day threats”. Red teaming is a proactive approach to cybersecurity that simulates real-world attacks to identify vulnerabilities and improve defenses.
 
 In a move towards launching a full-scale cloud native cybersecurity training range environment in AWS, we are implementing several offensive security measures that consider social engineering, password cracking, network scanning, web application testing, and, exploitation, and penetration testing.
