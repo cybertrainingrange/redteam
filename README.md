@@ -30,8 +30,8 @@ Ultimately, the goal of our cyber range is to provide a safe and realistic envir
 [Documentation](https://docs.google.com/document/d/1fCUtz3f2Hs_mVT0ssHRiIhxTLyKvkzgHi3-k49irTHY/edit?usp=share_link)
 
 ## Agile Framework
-- [Jira](https://drive.google.com/uc?export=view&id=https://drive.google.com/uc?export=view&id=1M-56z5erSeMbxmmzbWNsmvtUbGbM3iGE)
-- [Jira](https://drive.google.com/uc?export=view&id=https://drive.google.com/uc?export=view&id=1Lm-9uHRS3nqcfibdQggffWCqp3utVoRr)
+- [Jira](https://drive.google.com/uc?export=view&id=1M-56z5erSeMbxmmzbWNsmvtUbGbM3iGE)
+- [Jira](https://drive.google.com/uc?export=view&id=1Lm-9uHRS3nqcfibdQggffWCqp3utVoRr)
 
 ## Team Members
 - Alena [@alena](https://www.github.com/)
