@@ -3,7 +3,7 @@
 
 
 ## 
-[![SPRINT 1 - RED TEAM ](https://drive.google.com/uc?export=view&id=1mYjdREqJPkrotr126PjU9ByedOIkYiAS)](https://github.com/cybertrainingrange/redteam#readme) 
+[![SPRINT 1 - RED TEAM ](https://drive.google.com/uc?export=view&id=1mYjdREqJPkrotr126PjU9ByedOIkYiAS)] 
 
 
 There is an average of 2,200 cyberattacks per day with the United States remaining the most highly targeted country with 46% of global cyber incidences, according to research updated in January 2023 by CompTIA (CompTIA, 2023). Cybersecurity has developed to be one of the most in-demand industries in response to the growing threats. Organizations need proper security assessments to ensure that they are operating in compliance and are effective at defending the organization from unknown or “zero-day threats”. Red teaming is a proactive approach to cybersecurity that simulates real-world attacks to identify vulnerabilities and improve defenses.
