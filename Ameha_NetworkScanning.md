@@ -1,5 +1,5 @@
 
-# Network Scanning in AWS
+### Network Scanning in AWS
 
 Network scanning in AWS is a process of analyzing the network infrastructure of an Amazon Web Services (AWS) environment to identify potential security issues, misconfigurations, and vulnerabilities. 
 Network scans fall into two categories, passive network scanning and active network scanning. Passive scanning or packet sniffing, which captures and tracks the traffic moving over the network in the form of data packets. Passive scan tools are a type of security tool that monitor network traffic and identify vulnerabilities without actively interacting with the system. 
